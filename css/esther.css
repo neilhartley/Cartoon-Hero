@@ -1,0 +1,59 @@
+body {
+	margin: 0px;font-family: 'Roboto', sans-serif;
+	font-size: 20px;
+}
+
+header {
+	background-color: silver;
+	text-align: center;
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+
+header h1{
+	color: gold;
+	font-size: 40px;
+}
+
+header img{
+	border-radius: 160px;
+	width: 300px;
+	border: 10px solid goldenrod;
+}
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 0 20px;
+}
+
+main img{
+	max-width: 100%;
+}
+
+h2 {
+	font-size: 30px;
+	color: gold;
+}
+
+a{
+	color: gold;
+}
+a:hover{
+	color: silver;
+}
+
+footer{
+	text-align: center;
+	background-color: silver;
+	padding: 20px;
+}
+
+footer a:hover{
+	background-color: gold;
+}
+
+p.caption{
+	margin-top: 0px;
+	font-size: 16px;
+}
